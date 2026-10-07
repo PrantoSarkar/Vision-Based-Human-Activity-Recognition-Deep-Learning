@@ -21,6 +21,9 @@ This repository presents the research work associated with our published paper o
 **DOI:**  
 https://doi.org/10.5120/ijca2025924621
 
+**Datasets:**  
+https://www.kaggle.com/datasets/prantosarkar/suspicious-human-action https://www.kaggle.com/datasets/prantosarkar/validation050
+
 ## 🔬 About the Research
 
 Human Activity Recognition (HAR) is an important research area in computer vision and artificial intelligence.
